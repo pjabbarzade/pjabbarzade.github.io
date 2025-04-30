@@ -50,7 +50,7 @@ layout: homepage
   <br>
   41st International Conference on Machine Learning. **ICML 2024**. <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
   <br>
-  [[PDF](https://raw.githubusercontent.com/mlresearch/v235/main/assets/banihashem24a/banihashem24a.pdf)]
+  [[PDF](https://raw.githubusercontent.com/mlresearch/v235/main/assets/banihashem24a/banihashem24a.pdf)] [[Slides](https://icml.cc/media/icml-2024/Slides/32825_9H37xJR.pdf)]
 
 - **Prize-Collecting Steiner Tree: A 1.79 Approximation**
   <br>
