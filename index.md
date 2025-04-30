@@ -3,32 +3,54 @@ layout: homepage
 ---
 
 ## About Me
-  I'm a third-year Ph.D. student at the University of Maryland, College Park, under the supervision of [Prof. Hajiaghayi](https://www.cs.umd.edu/~hajiagha/). I earned my Bachelor's and Master's degrees in Computer Engineering from Sharif University of Technology, where I was advised by [Prof. Abam](https://sharif.edu/~abam/).
+  I'm a fourth-year Ph.D. student at the University of Maryland, College Park, advised by [Prof. Hajiaghayi](https://www.cs.umd.edu/~hajiagha/). I received my Bachelor's and Master's degrees in Computer Engineering from Sharif University of Technology, where I was advised by [Prof. Abam](https://sharif.edu/~abam/).
 
-  I am currently a member of the Theoretical Computer Science group at UMD, where my research interests primarily focus on designing algorithms, particularly for complex graph theory problems. My favorite project revolves around the design of an algorithm for the prize-collecting Steiner forest problem. Additionally, I am interested in optimizing submodular functions, which have wide applications in machine learning.
+  I am currently a member of the Theory Group at UMD. My research primarily focuses on combinatorial optimization and the design of algorithms and data structures.
+  I am especially interested in approximation algorithms for Steiner problems. Additionally, I work on optimizing submodular functions, which have broad applications in machine learning.
 
 ## Research Interests
 
-- **Optimization:** submodular maximization, scheduling
-- **Algorithmic Graph Theory:** steiner tree, steiner forest, k-mst
+- **Algorithmic Graph Theory:** Steiner Tree, Steiner Forest, k-MST
+- **Combinatorial Optimization:** Submodular Maximization, Scheduling
+- **Scalable Algorithms:** Dynamic Algorithms, Online Algorithms, Massively Parallel Computation (MPC)
 
-## News
+## Talks
 
-- **[Aug 2024]** I am going to defend [my proposal](./assets/files/proposal.pdf) to advance to Ph.D. candidacy.
-- **[Jun 2024]** Our paper on a dynamic algorithm for weighted submodular cover has been accepted for an oral presentation at [ICML 2024](https://icml.cc/Conferences/2024) in Vienna, Austria.
-- **[Jan 2024]** I gave a presentation on our paper about the 2-approximation algorithm for the prize-collecting Steiner forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Alexandria, US.
-- **[Dec 2023]** I presented a poster on dynamic matroid submodular maximization at [NeurIPS 2023](https://neurips.cc/Conferences/2023) in New Orleans, US.
+- **[Feb 2025]** Gave a short talk on the prize-collecting framework and our advancements in this area at [ICERM: Fusing Theory and Practice of Graph Algorithms](https://icerm.brown.edu/program/Hot%20Topics%20Workshop/htw-25-ftpga).
+- **[Aug 2024]** Advanced to Ph.D. candidacy with this [proposal](./assets/files/proposal.pdf).
+- **[Jan 2024]** Presented our paper on the 2-approximation algorithm for Prize-Collecting Steiner Forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Alexandria, US.
+- **[Dec 2023]** Presented a poster on our dynamic matroid submodular maximization paper at [NeurIPS 2023](https://neurips.cc/Conferences/2023) in New Orleans, US.
 
 ## Publications
+(All papers use **alphabetical** author ordering.)
+
+- **Breaking a Long-Standing Barrier: 2-ε Approximation for Steiner Forest**
+  <br>
+  Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
+  <br>
+  [[PDF](https://arxiv.org/pdf/2504.11398)]
+
+- **Dynamic Algorithms for Submodular Matching**
+  <br>
+  Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
+  <br>
+  52nd EATCS International Colloquium on Automata, Languages, and Programming. **ICALP 2025**. <strong>
+
+- **Prize-Collecting Forest with Submodular Penalties: Improved Approximation**
+  <br>
+  Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
+  <br>
+  26th Conference on Integer Programming and Combinatorial Optimization. **IPCO 2025**. <strong>
+  <br>
+  [[PDF](https://arxiv.org/pdf/2504.15445)]
 
 - **A Dynamic Algorithm for Weighted Submodular Cover Problem**
   <br>
   Kiarash Banihashem, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
   <br>
-  41th International Conference on Machine Learning. **ICML 2024**. <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  41st International Conference on Machine Learning. **ICML 2024**. <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
   <br>
   [[PDF](https://raw.githubusercontent.com/mlresearch/v235/main/assets/banihashem24a/banihashem24a.pdf)]
-
 
 - **Prize-Collecting Steiner Tree: A 1.79 Approximation**
   <br>
@@ -36,7 +58,8 @@ layout: homepage
   <br>
   56th ACM Symposium on Theory of Computing. **STOC 2024**. <strong>
   <br>
-- [[PDF](https://dl.acm.org/doi/pdf/10.1145/3618260.3649789)]
+  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3618260.3649789)] [[Slides](./assets/files/PCST.pdf)] [[Video](https://youtu.be/Kq4YF8th5w8?si=qQWsIUVxqAGfJxC3)] 
+
 
 - **2-Approximation for Prize-Collecting Steiner Forest**
   <br>
@@ -44,7 +67,9 @@ layout: homepage
   <br>
   ACM-SIAM Symposium on Discrete Algorithms. **SODA 2024**. <strong><i style="color:#e74d3c">Selected for Special Issue</i></strong>
   <br>
-  [[PDF](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977912.25)] [[Slides](./assets/files/PCSF.pdf)] 
+  Journal of the ACM. **JACM 2025**. <strong>
+  <br>
+  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3722551)] [[Slides](./assets/files/PCSF.pdf)] 
 
 - **Dynamic Algorithms for Matroid Submodular Maximization**
   <br>
@@ -82,9 +107,9 @@ layout: homepage
 
 ## Awards
 
-- **Asia west champion** in International Collegiate Programming Contest (ICPC) world final contest, 2018.
-- **14th place** in International Collegiate Programming Contest (ICPC) world final contest, 2016.
-- **Champions** in International Collegiate Programming Contest (ICPC) Tehran regional contest, 2015 and 2016.
-- **[Bronze medal](https://stats.ioinformatics.org/people/5616)** in International Olympiad in Informatics (IOI), 2015.
-- **Gold medal** in Asia-Pacific Informatics Olympiad (APIO), 2015.
-- **Gold medal** in Iranian National Olympiad in Informatics (IOI), 2014.
+- **Asia west champion**, International Collegiate Programming Contest (ICPC) world final contest, 2018
+- **14th place**, ICPC world final contest, 2016
+- **Champions**, ICPC Tehran regional contest, 2015 and 2016
+- **[Bronze medal](https://stats.ioinformatics.org/people/5616)**, International Olympiad in Informatics (IOI), 2015
+- **Gold medal**, Asia-Pacific Informatics Olympiad (APIO), 2015
+- **Gold medal**, Iranian National Olympiad in Informatics, 2014
