@@ -16,6 +16,7 @@ layout: homepage
 
 ## Talks
 
+- **[Jun 2025]** Gave a talk on our breakthrough result for the Steiner Forest problem at the University of Washington ([slides](./assets/files/SteinerForest.pdf)).
 - **[Feb 2025]** Gave a short talk on the prize-collecting framework and our advancements in this area at [ICERM: Fusing Theory and Practice of Graph Algorithms](https://icerm.brown.edu/program/Hot%20Topics%20Workshop/htw-25-ftpga).
 - **[Aug 2024]** Advanced to Ph.D. candidacy with this [proposal](./assets/files/proposal.pdf).
 - **[Jan 2024]** Presented our paper on the 2-approximation algorithm for Prize-Collecting Steiner Forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Alexandria, US.
@@ -28,13 +29,15 @@ layout: homepage
   <br>
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
   <br>
-  [[PDF](https://arxiv.org/pdf/2504.11398)]
+  [[PDF](https://arxiv.org/pdf/2504.11398) [[Slides](./assets/files/SteinerForest.pdf)]
 
 - **Dynamic Algorithms for Submodular Matching**
   <br>
   Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
   <br>
   52nd EATCS International Colloquium on Automata, Languages, and Programming. **ICALP 2025**. <strong>
+  <br>
+  [[PDF](https://drops.dagstuhl.de/storage/00lipics/lipics-vol334-icalp2025/LIPIcs.ICALP.2025.19/LIPIcs.ICALP.2025.19.pdf)]
 
 - **Prize-Collecting Forest with Submodular Penalties: Improved Approximation**
   <br>
