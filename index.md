@@ -29,7 +29,7 @@ layout: homepage
   <br>
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
   <br>
-  [[PDF](https://arxiv.org/pdf/2504.11398) [[Slides](./assets/files/SteinerForest.pdf)]
+  [[PDF](https://arxiv.org/pdf/2504.11398)] [[Slides](./assets/files/SteinerForest.pdf)]
 
 - **Dynamic Algorithms for Submodular Matching**
   <br>
