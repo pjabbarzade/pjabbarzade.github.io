@@ -29,7 +29,21 @@ layout: homepage
   <br>
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
   <br>
+  66th Annual Symposium on Foundations of Computer Science. **FOCS 2025**. <strong><i style="color:#e74d3c">Best Paper Award</i></strong>
+  <br>
   [[PDF](https://arxiv.org/pdf/2504.11398)] [[Slides](./assets/files/SteinerForest.pdf)]
+
+- **Dynamic Diameter in High-Dimensions against Adaptive Adversary and Beyond**
+  <br>
+  Kiarash Banihashem, Jeff Giliberti, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
+  <br>
+  39th Conference on Neural Information Processing Systems. **NeurIPS 2025**.
+
+- **Dynamic Algorithms for Non-monotone p-Matchoids**
+  <br>
+  Kiarash Banihashem, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
+  <br>
+  39th Conference on Neural Information Processing Systems. **NeurIPS 2025**.
 
 - **Dynamic Algorithms for Submodular Matching**
   <br>
@@ -110,6 +124,7 @@ layout: homepage
 
 ## Awards
 
+- **Best paper award**, Symposium on Foundations of Computer Science (FOCS) conference, 2025
 - **Asia west champion**, International Collegiate Programming Contest (ICPC) world final contest, 2018
 - **14th place**, ICPC world final contest, 2016
 - **Champions**, ICPC Tehran regional contest, 2015 and 2016
