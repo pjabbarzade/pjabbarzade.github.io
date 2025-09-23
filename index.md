@@ -125,6 +125,7 @@ layout: homepage
 ## Awards
 
 - **Best paper award**, Symposium on Foundations of Computer Science (FOCS) conference, 2025
+- **Dean's Fellowship**, University of Maryland
 - **Asia west champion**, International Collegiate Programming Contest (ICPC) world final contest, 2018
 - **14th place**, ICPC world final contest, 2016
 - **Champions**, ICPC Tehran regional contest, 2015 and 2016
