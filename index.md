@@ -14,14 +14,6 @@ layout: homepage
 - **Combinatorial Optimization:** Submodular Maximization, Scheduling
 - **Scalable Algorithms:** Dynamic Algorithms, Online Algorithms, Massively Parallel Computation (MPC)
 
-## Talks
-
-- **[Jun 2025]** Gave a talk on our breakthrough result for the Steiner Forest problem at the University of Washington ([slides](./assets/files/SteinerForest.pdf)).
-- **[Feb 2025]** Gave a short talk on the prize-collecting framework and our advancements in this area at [ICERM: Fusing Theory and Practice of Graph Algorithms](https://icerm.brown.edu/program/Hot%20Topics%20Workshop/htw-25-ftpga).
-- **[Aug 2024]** Advanced to Ph.D. candidacy with this [proposal](./assets/files/proposal.pdf).
-- **[Jan 2024]** Presented our paper on the 2-approximation algorithm for Prize-Collecting Steiner Forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Alexandria, US.
-- **[Dec 2023]** Presented a poster on our dynamic matroid submodular maximization paper at [NeurIPS 2023](https://neurips.cc/Conferences/2023) in New Orleans, US.
-
 ## Publications
 (All papers use **alphabetical** author ordering.)
 
@@ -132,3 +124,12 @@ layout: homepage
 - **[Bronze medal](https://stats.ioinformatics.org/people/5616)**, International Olympiad in Informatics (IOI), 2015
 - **Gold medal**, Asia-Pacific Informatics Olympiad (APIO), 2015
 - **Gold medal**, Iranian National Olympiad in Informatics, 2014
+
+
+## Talks
+
+- **[Jun 2025]** Gave a talk on our breakthrough result for the Steiner Forest problem at the University of Washington.
+- **[Feb 2025]** Gave a short talk on the prize-collecting framework and our advancements in this area at [ICERM: Fusing Theory and Practice of Graph Algorithms](https://icerm.brown.edu/program/Hot%20Topics%20Workshop/htw-25-ftpga).
+- **[Aug 2024]** Advanced to Ph.D. candidacy with this [proposal](./assets/files/proposal.pdf).
+- **[Jan 2024]** Presented our paper on the 2-approximation algorithm for Prize-Collecting Steiner Forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Alexandria, US.
+- **[Dec 2023]** Presented a poster on our dynamic matroid submodular maximization paper at [NeurIPS 2023](https://neurips.cc/Conferences/2023) in New Orleans, US.
