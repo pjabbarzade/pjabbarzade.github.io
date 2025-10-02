@@ -49,7 +49,7 @@ layout: homepage
   <br>
   Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
   <br>
-  52nd EATCS International Colloquium on Automata, Languages, and Programming. **ICALP 2025**. <strong>
+  52nd EATCS International Colloquium on Automata, Languages, and Programming. **ICALP 2025**.
   <br>
   [[PDF](https://drops.dagstuhl.de/storage/00lipics/lipics-vol334-icalp2025/LIPIcs.ICALP.2025.19/LIPIcs.ICALP.2025.19.pdf)]
 
@@ -57,7 +57,7 @@ layout: homepage
   <br>
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
   <br>
-  26th Conference on Integer Programming and Combinatorial Optimization. **IPCO 2025**. <strong>
+  26th Conference on Integer Programming and Combinatorial Optimization. **IPCO 2025**.
   <br>
   [[PDF](https://arxiv.org/pdf/2504.15445)]
 
@@ -73,7 +73,7 @@ layout: homepage
   <br>
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
   <br>
-  56th ACM Symposium on Theory of Computing. **STOC 2024**. <strong>
+  56th ACM Symposium on Theory of Computing. **STOC 2024**.
   <br>
   [[PDF](https://dl.acm.org/doi/pdf/10.1145/3618260.3649789)] [[Slides](./assets/files/PCST.pdf)] [[Video](https://youtu.be/Kq4YF8th5w8?si=qQWsIUVxqAGfJxC3)] 
 
@@ -84,7 +84,7 @@ layout: homepage
   <br>
   ACM-SIAM Symposium on Discrete Algorithms. **SODA 2024**. <strong><i style="color:#e74d3c">Selected for Special Issue</i></strong>
   <br>
-  Journal of the ACM. **JACM 2025**. <strong>
+  Journal of the ACM. **JACM 2025**.
   <br>
   [[PDF](https://dl.acm.org/doi/pdf/10.1145/3722551)] [[Slides](./assets/files/PCSF.pdf)] 
 

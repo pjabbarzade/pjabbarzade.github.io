@@ -2,3 +2,19 @@
 ---
 
 @import "strata-academic";
+
+body {
+  color: rgba(0, 0, 0, 0.78) !important;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+}
+
+strong, b {
+  color: #000 !important;
+  font-weight: 600;
+}
+
+header-title strong,
+.header-title strong {
+  color: #fff !important;
+}
