@@ -3,10 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-  I'm a fourth-year Ph.D. student at the University of Maryland, College Park, advised by [Prof. Hajiaghayi](https://www.cs.umd.edu/~hajiagha/). I received my Bachelor's and Master's degrees in Computer Engineering from Sharif University of Technology, where I was advised by [Prof. Abam](https://sharif.edu/~abam/).
+  I'm a fifth-year Ph.D. student at the University of Maryland, College Park, advised by [Prof. Hajiaghayi](https://www.cs.umd.edu/~hajiagha/). I received my Bachelor's and Master's degrees in Computer Engineering from Sharif University of Technology, where I was advised by [Prof. Abam](https://sharif.edu/~abam/).
 
   I am currently a member of the Theory Group at UMD. My research primarily focuses on combinatorial optimization and the design of algorithms and data structures.
-  I am especially interested in approximation algorithms for Steiner problems. Additionally, I work on optimizing submodular functions, which have broad applications in machine learning.
+  I am especially interested in approximation algorithms for graph connectivity problems. Additionally, I work on optimizing submodular functions, which have broad applications in machine learning.
 
 ## Research Interests
 
@@ -30,12 +30,16 @@ layout: homepage
   Kiarash Banihashem, Jeff Giliberti, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
   <br>
   39th Conference on Neural Information Processing Systems. **NeurIPS 2025**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2511.01065)]
 
-- **Dynamic Algorithms for Non-monotone p-Matchoids**
+- **Non-monotone Submodular Optimization: p-Matchoid Constraints and Fully Dynamic Setting**
   <br>
   Kiarash Banihashem, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
   <br>
   39th Conference on Neural Information Processing Systems. **NeurIPS 2025**.
+  <br>
+  [[PDF](https://openreview.net/pdf?id=GdrBPyUNPL)]
 
 - **Dynamic Algorithms for Submodular Matching**
   <br>
@@ -116,10 +120,9 @@ layout: homepage
 
 ## Awards
 
-- **Best paper award**, Symposium on Foundations of Computer Science (FOCS) conference, 2025
-- **Dean's Fellowship**, University of Maryland
-- **Asia west champion**, International Collegiate Programming Contest (ICPC) world final contest, 2018
-- **14th place**, ICPC world final contest, 2016
+- **[Best paper award](https://focs.computer.org/2025/best-paper-awards/)**, Symposium on Foundations of Computer Science (FOCS) conference, 2025
+- **Asia west champion**, International Collegiate Programming Contest (ICPC) world finals contest, 2018
+- **14th place**, ICPC world finals contest, 2016
 - **Champions**, ICPC Tehran regional contest, 2015 and 2016
 - **[Bronze medal](https://stats.ioinformatics.org/people/5616)**, International Olympiad in Informatics (IOI), 2015
 - **Gold medal**, Asia-Pacific Informatics Olympiad (APIO), 2015
@@ -128,7 +131,7 @@ layout: homepage
 
 ## Talks
 
-- **[Jun 2025]** Gave a talk on our breakthrough result for the Steiner Forest problem at the University of Washington.
+- **[Jun 2025 - Jan 2026]** Invited to present our FOCS 2025 Best Paper award-winning result on the Steiner Forest problem at the University of Washington, UMD, Johns Hopkins, and the University of Michigan.
 - **[Feb 2025]** Gave a short talk on the prize-collecting framework and our advancements in this area at [ICERM: Fusing Theory and Practice of Graph Algorithms](https://icerm.brown.edu/program/Hot%20Topics%20Workshop/htw-25-ftpga).
 - **[Aug 2024]** Advanced to Ph.D. candidacy with this [proposal](./assets/files/proposal.pdf).
 - **[Jan 2024]** Presented our paper on the 2-approximation algorithm for Prize-Collecting Steiner Forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Alexandria, US.
